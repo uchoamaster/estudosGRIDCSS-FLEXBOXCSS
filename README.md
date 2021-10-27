@@ -8,3 +8,8 @@
 ![leiaute-flexbox1](https://user-images.githubusercontent.com/5197047/138884490-586e4426-d4fa-453a-b73c-4340323f852d.png)
 ![flexbox2](https://user-images.githubusercontent.com/5197047/138884510-21504bf0-552d-41cc-9cc1-a235cd8abbbb.png)
 ![flexbox3](https://user-images.githubusercontent.com/5197047/138884518-a327c85f-5dc5-4cf4-8724-e0f75b2ba392.png)
+
+
+# Leiaute estudo feito com flexbox
+![leiauteflexboxsite](https://user-images.githubusercontent.com/5197047/139112492-5bedb9c2-b959-4087-9f9d-32caccad8409.png)
+
